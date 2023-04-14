@@ -1,0 +1,15 @@
+C:\Users\53144094889\Desktop\Back-end\Lista-exercicios-13-04-2023\bin\Debug\net7.0\Lista-exercicios-13-04-2023.exe
+C:\Users\53144094889\Desktop\Back-end\Lista-exercicios-13-04-2023\bin\Debug\net7.0\Lista-exercicios-13-04-2023.deps.json
+C:\Users\53144094889\Desktop\Back-end\Lista-exercicios-13-04-2023\bin\Debug\net7.0\Lista-exercicios-13-04-2023.runtimeconfig.json
+C:\Users\53144094889\Desktop\Back-end\Lista-exercicios-13-04-2023\bin\Debug\net7.0\Lista-exercicios-13-04-2023.dll
+C:\Users\53144094889\Desktop\Back-end\Lista-exercicios-13-04-2023\bin\Debug\net7.0\Lista-exercicios-13-04-2023.pdb
+C:\Users\53144094889\Desktop\Back-end\Lista-exercicios-13-04-2023\obj\Debug\net7.0\Lista-exercicios-13-04-2023.csproj.AssemblyReference.cache
+C:\Users\53144094889\Desktop\Back-end\Lista-exercicios-13-04-2023\obj\Debug\net7.0\Lista-exercicios-13-04-2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53144094889\Desktop\Back-end\Lista-exercicios-13-04-2023\obj\Debug\net7.0\Lista-exercicios-13-04-2023.AssemblyInfoInputs.cache
+C:\Users\53144094889\Desktop\Back-end\Lista-exercicios-13-04-2023\obj\Debug\net7.0\Lista-exercicios-13-04-2023.AssemblyInfo.cs
+C:\Users\53144094889\Desktop\Back-end\Lista-exercicios-13-04-2023\obj\Debug\net7.0\Lista-exercicios-13-04-2023.csproj.CoreCompileInputs.cache
+C:\Users\53144094889\Desktop\Back-end\Lista-exercicios-13-04-2023\obj\Debug\net7.0\Lista-exercicios-13-04-2023.dll
+C:\Users\53144094889\Desktop\Back-end\Lista-exercicios-13-04-2023\obj\Debug\net7.0\refint\Lista-exercicios-13-04-2023.dll
+C:\Users\53144094889\Desktop\Back-end\Lista-exercicios-13-04-2023\obj\Debug\net7.0\Lista-exercicios-13-04-2023.pdb
+C:\Users\53144094889\Desktop\Back-end\Lista-exercicios-13-04-2023\obj\Debug\net7.0\Lista-exercicios-13-04-2023.genruntimeconfig.cache
+C:\Users\53144094889\Desktop\Back-end\Lista-exercicios-13-04-2023\obj\Debug\net7.0\ref\Lista-exercicios-13-04-2023.dll
